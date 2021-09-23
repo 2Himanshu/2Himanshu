@@ -9,10 +9,7 @@
 You can click the Preview link to take a look at your changes.
 --->
 
-### Connect with me:
 
-[<img align="left" alt="2Himanshu | LinkedIn" width="22px" src="https://www.linkedin.com/in/himanshu-yadav-669569198/" />][linkedin]
-[<img align="left" alt="2Himanshu | HackerRank" width="22px" src="https://www.hackerrank.com/himanshu31072001" />][hackerrank]
 
 <br />
 
