@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @2Himanshu
-- 👀 I’m interested in Learning various stacks of software and to implement it.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Learning various stacks of software and implementing it.
+- 🌱 I’m currently Android and various Algorithms.
+- 💞️ I’m looking to contribute on various technologies and projects.
 
 <!---
 2Himanshu/2Himanshu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
