@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @2Himanshu
-- 👀 I’m interested in Learning various stacks of software and implementing it.
+- 👀 I’m interested in Learning various stacks of technologies and implementing it.
 - 🌱 I’m currently Android and various Algorithms.
 - 💞️ I’m looking to contribute on various technologies and projects.
 
