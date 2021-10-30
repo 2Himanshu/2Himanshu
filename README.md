@@ -3,6 +3,7 @@
 - 🌱 I’m currently Android and various Algorithms.
 - 💞️ I’m looking to contribute on various technologies and projects.
 
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=2Himanshu.2Himanshu&color=44CC11)
 <!---
 2Himanshu/2Himanshu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
